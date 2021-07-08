@@ -1,0 +1,86 @@
+{
+  "login": [
+    {
+      "name": "Hashim",
+      "password": "abc@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "McDonalds",
+      "email": "mcdonalds@test.com",
+      "address": "Lahore",
+      "location": "Fortress",
+      "rating": "4.3",
+      "id": 2
+    },
+    {
+      "name": "FoodCottage",
+      "email": "foodcottage@test.com",
+      "address": "Lahore",
+      "location": "BegumKott",
+      "rating": "3",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Fri-Chiks",
+      "address": "Lahore",
+      "rating": "4.3",
+      "email": "fri-chiccks@test.com"
+    },
+    {
+      "id": 5,
+      "name": "PindSide Resturant",
+      "address": "Lahore",
+      "rating": "4.3",
+      "email": "pindside@test.com"
+    },
+    {
+      "id": 7,
+      "name": "Bundu Khan Resturant",
+      "address": "Lahore",
+      "rating": "4.3",
+      "email": "bundukan@test.com"
+    },
+    {
+      "id": 777,
+      "name": "Alkhan Resturant",
+      "address": "Lahore",
+      "rating": "4.3",
+      "email": "pindside@test.com"
+    },
+    {
+      "name": "dunba kraie",
+      "email": "db@test.com",
+      "address": "lahore",
+      "rating": null,
+      "location": "2",
+      "id": 781
+    },
+    {
+      "name": "Monal",
+      "email": "monal@test.com",
+      "address": "lahore",
+      "location": "lahore",
+      "rating": "3",
+      "id": 783
+    },
+    {
+      "name": "Charsi Tikka",
+      "email": "charsitikka@test.com",
+      "address": "Karachi",
+      "location": "sindh",
+      "rating": "4",
+      "id": 784
+    },
+    {
+      "name": "kfc",
+      "email": "kfc@test.com",
+      "address": "peshawar",
+      "location": "peshawar",
+      "rating": "4",
+      "id": 785
+    }
+  ]
+}
